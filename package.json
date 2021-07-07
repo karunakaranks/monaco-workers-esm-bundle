@@ -1,0 +1,14 @@
+{
+	"name": "monaco-worker-bundles",
+	"version": "0.0.1",
+	"description": "Samples for using the Monaco Editor Workers",
+	"main": "index.js",
+	"scripts": {
+		"simpleserver": "yaserver --root ./ --port 8888"
+	},
+	"author": "Karuna",
+	"license": "MIT",
+	"devDependencies": {
+		"yaserver": "^0.3.0"
+	}
+}
